@@ -18,7 +18,7 @@ Atualmente sou estudante de Ciência da Computação na UNIT. Sou apaixonado por
 
 
 
-### 🧑‍💼 Expirence:
+### 🧑‍💼 Experience:
 
 ---
 
