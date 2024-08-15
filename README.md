@@ -10,7 +10,7 @@ leocardozo0704@gmail.com
 
 ---
 
-Atualmente sou estudante de Ciência da Computação na UNIT. Sou apaixonado por tecnologia e estou sempre ansioso para aprender e inovar. Possuo um diploma técnico em Análise de Sistemas pelo SENAI e atualmente trabalho como desenvolvedor full-stack na Empresa de Secretaria de Administraçao. obtive certificados em Java e TypeScript. Estou ativamente buscando novas especializações na área de Ciência da Computação. Trabalho bem em equipe e mantenho boas relações com meus colegas. Estou interessado em oportunidades na Secretaria de Estado de Administração.
+I am currently a Computer Science student at UNIT. I am passionate about technology and am always eager to learn and innovate. I hold a technical diploma in Systems Analysis from SENAI, and I currently work as a full-stack developer at the Secretariat of Administration Company. I have obtained certifications in Java and TypeScript. I am actively seeking new specializations in the field of Computer Science. I work well in teams and maintain good relationships with my colleagues.
 
 
 
